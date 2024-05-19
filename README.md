@@ -1,6 +1,8 @@
 рекомендуется ubunta 22.04
-.env
+
 ```plaintext
+.env
+
 TOKEN=
 RM_HOST= 192.168.68.195
 RM_PORT= 22
